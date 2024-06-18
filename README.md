@@ -9,5 +9,5 @@ This presentation provides an in-depth analysis of Bitcoin's price history, key 
 # Techonologies used:
 
  1. Machine Learning
- 2. Random Forest Alogrithm
+ 2. LSTM(Long Short-Term Memory) Alogrithm
  
